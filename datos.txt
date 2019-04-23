@@ -1,4 +1,4 @@
 Id		Nombres		Apellidos		Edad
 01		Rene		Elizalde		36
-01		Rene		Elizalde		36
-01		Rene		Elizalde		36
+02		Rene		Elizalde		36
+03		Rene		Elizalde		38
